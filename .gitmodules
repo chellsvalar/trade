@@ -1,0 +1,3 @@
+[submodule "qptrader"]
+	path = qptrader
+	url = https://github.com/chellsvalar/trade
